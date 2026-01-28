@@ -1,2 +1,2 @@
 # mannual_testing
-mannual_testing_testcase_bug_report
+sql_notes
